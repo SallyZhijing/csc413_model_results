@@ -1,0 +1,2 @@
++train mem:4534.49MB
+   val mem:1016.23MB
